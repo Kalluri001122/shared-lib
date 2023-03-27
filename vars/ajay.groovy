@@ -1,3 +1,3 @@
-def call(name) {
-echo "${name} welcome to my world"
+def call() {
+echo "aj welcome to my hell"
 }

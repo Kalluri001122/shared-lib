@@ -1,3 +1,3 @@
-def call() {
-echo "aj welcome to my hell"
+def call(role) {
+echo "reaction of $("role")"
 }

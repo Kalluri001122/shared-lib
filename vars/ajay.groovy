@@ -1,3 +1,3 @@
 def call(role) {
-echo "reaction of $(role)"
+  echo "reaction of ${role}"
 }
